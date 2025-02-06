@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Laravel web app
+- 🌱 I’m currently learning Python to implement Generative Adversarial Network
